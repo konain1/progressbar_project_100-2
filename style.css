@@ -57,6 +57,7 @@ bottom: 30px;
 }
 .circle.active{
     background-color: skyblue;
+    color: white;
 }
 
 .btn{
